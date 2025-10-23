@@ -2,8 +2,6 @@
 
 This project provides a complete deep learning pipeline for automatic heart segmentation in CT scans using a U-Net architecture. It includes scripts for training, command-line inference, and an interactive web demo.
 
-> (This is a placeholder. You should add a screenshot or GIF of your Gradio app in action!)
-
 ## Features
 
 - U-Net Model: A robust U-Net implementation tailored for medical image segmentation.
